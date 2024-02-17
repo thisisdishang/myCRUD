@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282710854470",
+    "project_id": "mycrud-abfae",
+    "storage_bucket": "mycrud-abfae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282710854470:android:f1c4f5e642608f7528f347",
+        "android_client_info": {
+          "package_name": "com.example.mycrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYdZflmgSdRos7jTCH9uPxpXnaC4PwLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
